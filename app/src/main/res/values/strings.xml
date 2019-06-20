@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Baker</string>
+    <string name="title_cake_list">Cakes</string>
+    <string name="title_cake_detail">Cake Detail</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>

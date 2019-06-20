@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialKeyguardLayout="@layout/ingridient_widget"
+    android:initialLayout="@layout/ingridient_widget"
+    android:minHeight="150dp"
+    android:minWidth="150dp"
+    android:previewImage="@mipmap/image_baking"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMillis="5000"
+    android:widgetCategory="home_screen">
+
+</appwidget-provider>
